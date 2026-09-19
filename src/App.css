@@ -394,6 +394,13 @@ html.dark {
   color: var(--color-text);
 }
 
+/* Highlighted text - yellow background, theme-aware text color */
+.prose mark {
+  background-color: rgba(250, 204, 21, 0.4);
+  color: inherit;
+  border-radius: 0.15em;
+}
+
 /* Code blocks and inline code */
 .prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   color: var(--color-code);
