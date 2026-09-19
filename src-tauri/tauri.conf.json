@@ -65,7 +65,7 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEE3RTQ2NTA4QzJGODdFRTYKUldUbWZ2akNDR1hrcDlud3VQSVhuYVU0cDk5V0RkaVFuVElRSGRVMjlFam9IdFVCNnU1ZlVJOXEK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDA0NzQ5N0M5RDhERDg4NDgKUldSSWlOM1l5WmQwQk8valZQK1hUNDRXTzdrQmE5eHNNRXhzTTdhVUwvb2wxWTdXSWw0SWI5aHgK",
       "endpoints": [
         "https://github.com/erictli/scratch/releases/latest/download/latest.json"
       ]
